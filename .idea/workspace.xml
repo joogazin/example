@@ -5,7 +5,7 @@
     <ignored path="fibonacci.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fibonacci" changelist="cbca8d14-2bcd-4eef-a394-1e109ee105a6" time="1385435398024" ignored="false" />
-    <file path="/person.rb" changelist="cbca8d14-2bcd-4eef-a394-1e109ee105a6" time="1384840122176" ignored="false" />
+    <file path="/person.rb" changelist="cbca8d14-2bcd-4eef-a394-1e109ee105a6" time="1424153894061" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
       <file leaf-file-name="person.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/person.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="11" selection-start="203" selection-end="203" vertical-scroll-proportion="0.26190478">
+            <state line="13" column="10" selection-start="215" selection-end="215" vertical-scroll-proportion="0.30952382">
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/fact.rb" />
-        <option value="$PROJECT_DIR$/person.rb" />
         <option value="$PROJECT_DIR$/fibonacci" />
+        <option value="$PROJECT_DIR$/person.rb" />
       </list>
     </option>
   </component>
@@ -367,7 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/person.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="11" selection-start="203" selection-end="203" vertical-scroll-proportion="0.26190478">
+        <state line="13" column="10" selection-start="215" selection-end="215" vertical-scroll-proportion="0.30952382">
           <folding />
         </state>
       </provider>

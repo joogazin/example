@@ -9,3 +9,6 @@ class  Person
    puts "#{@name}:#{surname}of age #{@age}"
 end
 end
+
+
+puts"hello"
